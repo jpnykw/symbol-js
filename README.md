@@ -2,7 +2,9 @@
 
 ・半角英数字（小文字のみ）  
 ・半角記号  
-・空白、改行、タブ
+・空白、改行、タブ  
+
+詳しくは [data.json](https://github.com/JPNYKW/Symbol-JS/blob/master/data/table.json) を確認して下さい.
 
 # Symbol-JS
 
